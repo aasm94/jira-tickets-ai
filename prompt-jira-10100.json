@@ -1,0 +1,15 @@
+Resumen: El objetivo es crear una página web simple que muestre el texto "hola mundo" sobre un fondo de color rojo.
+
+Pasos a seguir:
+1. Crear un archivo HTML (ej. index.html) que contenga el texto "hola mundo".
+2. Crear un archivo CSS para definir el estilo de la página.
+3. En el archivo CSS, establecer el color de fondo del cuerpo (body) de la página a rojo.
+4. Enlazar el archivo CSS al archivo HTML para que los estilos se apliquen.
+
+Dependencias:
+No se identifican dependencias externas. Se necesitan conocimientos básicos de HTML y CSS.
+
+Acciones recomendadas:
+Se recomienda crear los archivos HTML y CSS en el directorio `front` del proyecto y enlazarlos. Es una tarea de baja complejidad que puede ser abordada de inmediato.
+
+ID: 10100
