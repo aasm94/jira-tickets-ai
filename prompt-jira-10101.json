@@ -1,0 +1,17 @@
+El objetivo principal es desarrollar e integrar un formulario de contacto funcional dentro de la aplicación AutoCrud para que los usuarios puedan enviar consultas.
+
+Pasos para completar la tarea:
+1.  Diseñar la interfaz de usuario del formulario (campos: nombre, email, asunto, mensaje).
+2.  Crear el HTML y CSS para la estructura y el estilo del formulario.
+3.  Desarrollar la lógica del frontend con JavaScript para la validación de datos y el envío al backend.
+4.  Crear un nuevo endpoint en el backend (ej. /api/contact) para recibir los datos del formulario.
+5.  Implementar la lógica del backend para procesar los datos (ej. enviar un email o guardar en la base de datos).
+6.  Realizar pruebas unitarias y de extremo a extremo para asegurar el correcto funcionamiento.
+
+Información relevante:
+Es necesario definir qué acción se debe realizar con los datos una vez que el usuario envía el formulario. Por ejemplo, si deben guardarse en una base de datos o enviarse a una dirección de correo electrónico específica. No hay especificaciones de diseño (UX/UI).
+
+Acciones recomendadas:
+Prioridad: Alta. Se recomienda contactar a Brenda Bravo para clarificar el flujo de datos post-envío. Mientras tanto, el equipo de frontend puede comenzar a desarrollar la interfaz del formulario con datos de prueba.
+
+ID: 10101
