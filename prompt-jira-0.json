@@ -1,0 +1,11 @@
+El objetivo principal es construir una página web simple que muestre el texto "hola mundo" sobre un fondo de color rojo.
+
+Pasos para completar la tarea:
+1. Crear un nuevo archivo HTML.
+2. Dentro del archivo HTML, añadir la estructura básica (doctype, head, body).
+3. Insertar el texto "hola mundo" dentro de la etiqueta body.
+4. Aplicar un estilo CSS para establecer el color de fondo de la página en rojo.
+
+No se identifican dependencias críticas. Es una tarea de desarrollo frontend autocontenida.
+
+Se recomienda priorizar esta tarea como baja, ya que parece ser una solicitud de prueba o un componente muy simple. La acción inmediata sería asignar el ticket a un desarrollador frontend.
