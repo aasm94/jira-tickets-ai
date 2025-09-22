@@ -1,0 +1,15 @@
+El objetivo del ticket es crear una página web estática simple con un fondo rojo y el texto "hola mundo!".
+
+Pasos para completarlo:
+1. Crear un nuevo archivo HTML en el directorio `front/`.
+2. Definir la estructura HTML básica en el archivo.
+3. Añadir el texto "hola mundo!" en el cuerpo del documento.
+4. Aplicar un estilo CSS para establecer el color de fondo de la página a rojo.
+
+Información relevante:
+El archivo debe ubicarse en la carpeta `front/` para seguir la estructura del proyecto. No hay dependencias externas críticas para esta tarea.
+
+Acciones recomendadas:
+Se sugiere nombrar el archivo de forma descriptiva, por ejemplo, `hola.html`, y crearlo en el directorio `front/`. La tarea es de baja complejidad y puede ser implementada rápidamente.
+
+ID:10133
