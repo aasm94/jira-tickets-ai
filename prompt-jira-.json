@@ -1,0 +1,17 @@
+Resumen del objetivo:
+El objetivo es crear una página web simple que muestre el texto "hola mundo!" sobre un fondo de color rojo.
+
+Pasos para completar la tarea:
+1. Crear un nuevo archivo HTML.
+2. Definir la estructura básica del documento HTML.
+3. Añadir un estilo CSS para establecer el color de fondo del cuerpo de la página en rojo.
+4. Insertar el texto "hola mundo!" en el cuerpo del documento.
+
+Dependencias o información relevante:
+No se especifican dependencias. Se debe decidir la ubicación del nuevo archivo dentro de la estructura del proyecto "AutoCrud", posiblemente en el directorio "front".
+
+Prioridades y acciones recomendadas:
+Esta es una tarea de baja prioridad y complejidad. Se recomienda crear el archivo HTML con el estilo CSS directamente en el propio archivo para una implementación rápida.
+
+ID del ticket:
+10100
